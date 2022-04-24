@@ -1,0 +1,19 @@
+# MANIPULANDO LISTAS E STRINGS
+
+lista1 = ['P', 'Y', 'T', 'H', 'O', 'N']
+l = 'PYTHON'
+
+# CHAMAR PARTER ESPECÍFICAS DA STRING
+
+# [:2] CHAMA AS 2 PRIMEIRAS UNID. DA LISTA, ISSO TB FUNCIONA P STR
+lista1[:2]
+print(lista1[:2])
+
+# [2:] CHAMA TD DEPOIS DOS 2 PRIMEIROS
+
+print(lista1[2:])
+
+# MOSTRA A QNTD. DE ELEMENTOS DE UMA LISTA OU STR
+print(len(l))
+
+
